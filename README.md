@@ -1,5 +1,6 @@
 # Genkaiya
 限界スタック指向プログラミング言語
+<img src="https://user-images.githubusercontent.com/38945432/168447487-fb05b7da-0274-4a4e-a381-6a45216d21f6.png" width="200" height="200">
 
 # About
 なんだか作りたくなったので作った。限界すぎる。
